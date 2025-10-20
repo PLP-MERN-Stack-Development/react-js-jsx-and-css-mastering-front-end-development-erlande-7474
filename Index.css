@@ -1,0 +1,14 @@
+/* Import Tailwind base styles */
+@tailwind base;
+
+/* Import Tailwind component classes */
+@tailwind components;
+
+/* Import Tailwind utility classes */
+@tailwind utilities;
+
+/* Optional: You can add custom global CSS below */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9fafb; /* light gray background */
+}
